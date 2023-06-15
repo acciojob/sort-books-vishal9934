@@ -37,7 +37,7 @@ function BooksList(props) {
 
   return (
     <div>
-      <h1>Book List</h1>
+      <h1>Books List</h1>
       <div class="dropdown-section">
         <label>
           Sort by:
